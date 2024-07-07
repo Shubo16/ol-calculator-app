@@ -1,4 +1,6 @@
-Extra Notes, Details
+-- Extra Notes, Details
+
+
 This documentation outlines the creation and functionality of a simple yet fully functional calculator application. The calculator performs basic arithmetic operations and includes both click and keyboard input handling.
 What I Have Created
 I have created a fully functional calculator application. This application allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
